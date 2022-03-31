@@ -1,0 +1,16 @@
+
+=========================
+||    DAFTAR HARGA     ||
+-------------------------
+||1. Ayprek : 21000    ||
+||2. aygor  : 17000    ||
+||3. cumgor : 20000    ||
+||4. aybak  : 25000    ||
+=========================
+
+Berapa banyak porsi yang dibeli -> 2
+Harga satuan menu -> 20000
+Harga yang harus dibayar = 40000
+Berapa jarak rumah kamu : 4
+----Selamat Anda Mendapatkan Potongan----
+Potongan : 4256233
